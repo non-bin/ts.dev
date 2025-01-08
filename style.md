@@ -25,7 +25,7 @@ is matched by the regular expression `[$\w]+`.
 
 | Style            | Category                                           |
 | ---------------- | -------------------------------------------------- |
-| `UpperCamelCase` | class / interface / type / enum / decorator / type / parameters |
+| `UpperCamelCase` | class / interface / type / enum / decorator / type parameters |
 | `lowerCamelCase` | variable / parameter / function / method / property / module alias |
 | `CONSTANT_CASE` | global constant values, including enum values |
 | `#ident` | private identifiers are never used. |
